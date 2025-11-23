@@ -1,33 +1,33 @@
-# Hey there! 👋
+# Hafizh Rizqullah
 
-I'm Hafizh Rizqullah, a passionate Developer and UI/UX Desginer from Indonesia. Welcome to my GitHub profile! 
+Developer & UI/UX Designer based in Indonesia, specializing in building thoughtful digital experiences.
 
-## About Me
+## What I Do
 
-- 🚀 I'm a Developer also UI/UX Designer.
-- 💡 I love Travelling, COding, Culinary, and I'm always eager to learn something new.
-- 🌐 Currently, I'm exploring React.
-- 🍽️ I'm a self-proclaimed foodie who's always on the lookout for the next culinary masterpiece.
-- 🌱 I believe that every dish and every journey has a story to tell.
+I work across the full spectrum of product development—from initial design concepts to implementation. Currently focused on React and modern web technologies while exploring the intersection of design and code.
 
-## Skills
+**Technical Skills**
+- Languages: JavaScript, Python, Java, PHP
+- Design: Figma, Photoshop
+- Currently learning: Advanced React patterns and component architecture
 
-- 💻 Programming languages: Java, Python, PHP, JavaScript.
-- 🛠️ Tools & Technologies: Figma, Photoshop.
-- 📚 Always learning and staying up-to-date with the latest tech trends.
+## Projects & Interests
 
-## Connect with Me
+I'm particularly interested in:
+- User-centered design systems
+- Performance optimization
+- Clean, maintainable code architecture
 
-Let's connect and chat about tech, coding, or anything else:
+Outside of work, you'll find me exploring new restaurants, traveling, or grinding ranked games in Mobile Legends and The Witcher 3.
 
-- 📫 Email: hrizqullah484@gmail.com
-- 🐦 Twitter: [Rizqullah](https://twitter.com/rzqllh18)
-- 💼 LinkedIn: [Hafizh Rizqullah Prasetya](https://www.linkedin.com/in/rzqllh18/)
+## Get in Touch
 
-## Fun Facts
+Open to collaboration and interesting projects.
 
-- 🎮 In my free time, I enjoy playing Mobile Legends and The Witcher 3.
-- 🍣 Sushi is my guilty pleasure, and I'm on a mission to find the best sushi.
-- 📸 I document my culinary adventures and travel experiences through photography.
+**Email:** hrizqullah484@gmail.com  
+**Twitter:** [@rzqllh18](https://twitter.com/rzqllh18)  
+**LinkedIn:** [Hafizh Rizqullah Prasetya](https://www.linkedin.com/in/rzqllh18/)
 
-Feel free to explore my repositories, and don't hesitate to reach out. Let's collaborate and build amazing things together! 😄
+---
+
+*Currently open to freelance opportunities and collaborative projects.*
