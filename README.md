@@ -1,43 +1,39 @@
-# Hafizh Rizqullah
+# Hafizh Rizqullah Prasetya
 
-Front-end Developer & UI/UX Designer based in Indonesia, specializing in building thoughtful digital experiences.
+UI/UX Designer, Design Engineer, and Project Manager based in Indonesia.
 
-**Portfolio:** `[https://rzqllh-port.vercel.app/](#)`
+**Portfolio:** [rzqllh-port.vercel.app](https://rzqllh-port.vercel.app/) (rebuild in progress: [new-myport](https://github.com/rzqllh/new-myport))
 
-## What I Do
+## About
 
-I work across the full spectrum of product development—from initial design concepts to implementation. My focus is on creating user-centered interfaces that are both functional and aesthetically refined.
+Project Management Officer (IT & Strategy) at Telkom Indonesia since March 2024, and an Informatics graduate from Gunadarma University. I plan products, design their interfaces, and build them myself when the timeline calls for it.
 
-**Technical Skills**
-- Languages: JavaScript, Python, Java, PHP
-- Frontend: React, modern web technologies
-- Design: Figma, Photoshop
-- Currently learning: Advanced React patterns, Next.js, and server-side renderin
+## What I'm building
 
-## Interests & Approach
+### [Lumina](https://github.com/rzqllh/Lumina)
+A project OS I'm building for photographers and videographers, currently mid-way through a UI redesign.
 
-I'm particularly interested in:
-- User-centered design systems
-- Performance optimization and accessibility
-- Clean, maintainable code architecture
-- The intersection of design thinking and technical implementation
+### [Yomirra](https://github.com/rzqllh/Yomirra)
+A source-powered reader I built for manga, comics, and webtoons, mobile-first as a PWA.
 
-Outside of development, you'll find me exploring new restaurants, traveling to discover different cultures, or unwinding with Mobile Legends and The Witcher 3.
+### [HadzkaShop POS](https://github.com/rzqllh/HadzkaShop_PoS)
+A point-of-sale system I built for a small retail shop, scoped to a locked MVP.
 
-## Let's Work Together
+### [Mawmaw Interior](https://github.com/rzqllh/Mawmaw-landing)
+Site, docs, and stack I put together for a premium interior design and furniture studio.
 
-I'm available for:
-- Freelance web development projects
-- UI/UX design consultation
-- Open source collaboration
-- Speaking opportunities
+### [Portfolio v2](https://github.com/rzqllh/new-myport)
+My own site, rebuilt as a Next.js + Supabase app with a full CMS admin behind it.
 
-## Get in Touch
+## Stack
 
-**Email:** hrizqullah484@gmail.com  
-**LinkedIn:** [Hafizh Rizqullah Prasetya](https://www.linkedin.com/in/rzqllh18/)  
-**Twitter:** [@rzqllh18](https://twitter.com/rzqllh18)
+- Languages: TypeScript, JavaScript, Python
+- Frontend: React, Next.js, Tailwind CSS, shadcn/ui
+- Backend & data: Supabase
+- Design: Figma
 
----
+## Get in touch
 
-*Open to interesting projects and collaborations. Feel free to reach out.*
+- Email: hrizqullah484@gmail.com
+- LinkedIn: [Hafizh Rizqullah Prasetya](https://www.linkedin.com/in/rzqllh18/)
+- Twitter: [@rzqllh18](https://twitter.com/rzqllh18)
