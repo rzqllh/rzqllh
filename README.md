@@ -1,42 +1,80 @@
-# Hafizh Rizqullah Prasetya
-
-**Project manager · Designer · Developer**
+<p align="center">
+  <img src="./assets/profile-masthead.svg" width="100%" alt="Hafizh Rizqullah Prasetya — project manager, designer, developer. An editorial collection of selected work.">
+</p>
 
 I plan projects, design interfaces, and build software. I care about the details that make something easier to use, not just nicer to look at.
 
-Based in Indonesia. More about me and my work: [Portfolio](https://rzqllh-port.vercel.app/).
+Based in Indonesia. [Portfolio](https://rzqllh-port.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rzqllh18/) · [Email](mailto:hrizqullah484@gmail.com)
+
+---
 
 ## Selected work
 
-### [Yomirra](https://github.com/rzqllh/Yomirra)
+### 01 / [Yomirra](https://github.com/rzqllh/Yomirra)
 
-A place for manga, manhwa, and comics from different sources. Search, shelves, and reading progress come together so it's easier to find a story and pick up where you left off.
+*A reading space, built around the reader.*
 
-[Visit Yomirra](https://www.yomirra.web.id/) · Actively developed.
+Manga, manhwa, and comics from different sources, with search, shelves, and reading progress in one place. Less hunting around, more picking up where you left off.
 
-### Xyeena
+<a href="https://www.yomirra.web.id/">Visit the app</a> · <a href="https://github.com/rzqllh/Yomirra">Explore the code</a> · In active development
 
-A family of projects exploring how people work with AI, from coding workflows and specialist agents to a small companion on the Windows desktop.
+<a href="https://github.com/rzqllh/Yomirra">
+  <img src="https://raw.githubusercontent.com/rzqllh/Yomirra/main/public/screenshots/desktop-library.png" width="100%" alt="Yomirra desktop library interface, from the project repository.">
+</a>
 
-- **[Xyeena Rig](https://github.com/rzqllh/xyeena)** — skills, workflows, and optional guardrails for coding agents.
-- **[Simpul](https://github.com/rzqllh/SubagentBridge)** — coordinating coding workers with human supervision.
-- **[XYN Persona System](https://github.com/rzqllh/xyn-persona-system)** — one controller working with a cast of specialist personas; currently a source prerelease.
-- **[Xyeena Island / Notch](https://github.com/rzqllh/xyeena-notch)** — an experimental Windows companion for media, AI chat, and everyday activity; currently in alpha.
+### 02 / Xyeena
 
-Island also includes the animated [Xyn Guardian](https://github.com/rzqllh/xyeena-notch/tree/main/packages/xyn) and a [weekly recap engine](https://github.com/rzqllh/xyeena-notch/tree/main/packages/xyeena-recap). These are separate components, not standalone released apps. The projects share a family name, not a single release schedule.
+*Different tools. One ongoing exploration of how people and AI work together.*
 
-### [HadzkaShop POS](https://github.com/rzqllh/HadzkaShop_PoS)
+Xyeena is a family of projects, not a single app. Some help coding agents do better work; others explore what that work might look and feel like on the desktop.
 
-A point-of-sale app for a small shop, covering checkout, inventory, and the work behind each sale. The core application is built, with real-world rollout and production checks still to do.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/rzqllh/xyeena">Xyeena Rig</a></strong>
+      <p>Skills, workflows, and optional guardrails for coding agents.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/rzqllh/SubagentBridge">Simpul</a></strong>
+      <p>Coordinating coding workers with human supervision.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/rzqllh/xyn-persona-system">XYN Persona System</a></strong>
+      <p>A controller and specialist personas, currently released as source for evaluation.</p>
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/rzqllh/xyeena-notch">Xyeena Island / Notch</a></strong>
+      <p>An experimental Windows companion for media, AI chat, and everyday activity. Alpha release.</p>
+    </td>
+  </tr>
+</table>
 
-## More from the workbench
+<a href="https://github.com/rzqllh/xyeena-notch">
+  <img src="https://raw.githubusercontent.com/rzqllh/xyeena-notch/main/docs/assets/island-expanded-dark.png" width="720" alt="Xyeena Island expanded desktop companion interface, from the project repository.">
+</a>
 
-**[Yoru](https://github.com/rzqllh/Yoru)** — An anime discovery and watch-guide app with a local-first player. It's an engineering preview; public streaming isn't ready.
+<sub>Also part of the family: <a href="https://github.com/rzqllh/xyeena-notch/tree/main/packages/xyn">Xyn Guardian</a>, the animated mascot, and <a href="https://github.com/rzqllh/xyeena-notch/tree/main/packages/xyeena-recap">Xyeena Recap</a>, a weekly summary engine. These are components within Island's repository, not separate released apps. Each project has its own stage of development.</sub>
 
-**[Astralyn](https://github.com/rzqllh/Astralyn)** — A Honkai: Star Rail companion for exploring characters, planning teams, and making choices in Divergent Universe. The local build is available; there's no public demo yet.
+### 03 / [HadzkaShop POS](https://github.com/rzqllh/HadzkaShop_PoS)
 
-**[Lumina](https://github.com/rzqllh/Lumina)** — A workspace envisioned for photographers and videographers, from planning a shoot to delivering the finished work. **Paused for now** at the foundation stage, before the core product features were built.
+*The less glamorous side of running a shop matters, too.*
 
-## Elsewhere
+A point-of-sale app covering checkout, inventory, and the work behind every sale. Built with day-to-day shop operations in mind; production rollout and real-world checks are still outstanding.
 
-[Portfolio](https://rzqllh-port.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rzqllh18/) · [Email](mailto:hrizqullah484@gmail.com) · [Twitter](https://twitter.com/rzqllh18)
+[Explore the project](https://github.com/rzqllh/HadzkaShop_PoS)
+
+---
+
+## Still on the workbench
+
+| Project | What it is | Where it stands |
+| :--- | :--- | :--- |
+| **[Yoru](https://github.com/rzqllh/Yoru)** | Anime discovery, watch guides, and a local-first player. | Engineering preview; public streaming isn't ready. |
+| **[Astralyn](https://github.com/rzqllh/Astralyn)** | A Honkai: Star Rail companion for characters, teams, and Divergent Universe. | Works locally; no public demo yet. |
+| **[Lumina](https://github.com/rzqllh/Lumina)** | A proposed project workspace for photographers and videographers. | **Paused** at the foundation stage; core product features aren't built yet. |
+
+---
+
+<sub>Elsewhere: <a href="https://rzqllh-port.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/rzqllh18/">LinkedIn</a> · <a href="mailto:hrizqullah484@gmail.com">Email</a> · <a href="https://twitter.com/rzqllh18">Twitter</a></sub>
