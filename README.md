@@ -1,39 +1,42 @@
 # Hafizh Rizqullah Prasetya
 
-UI/UX Designer, Design Engineer, and Project Manager based in Indonesia.
+**Project manager · Designer · Developer**
 
-**Portfolio:** [rzqllh-port.vercel.app](https://rzqllh-port.vercel.app/) (rebuild in progress: [new-myport](https://github.com/rzqllh/new-myport))
+I plan projects, design interfaces, and build software. I care about the details that make something easier to use, not just nicer to look at.
 
-## About
+Based in Indonesia. More about me and my work: [Portfolio](https://rzqllh-port.vercel.app/).
 
-Project Management Officer (IT & Strategy) at Telkom Indonesia since March 2024, and an Informatics graduate from Gunadarma University. I plan products, design their interfaces, and build them myself when the timeline calls for it.
-
-## What I'm building
-
-### [Lumina](https://github.com/rzqllh/Lumina)
-A project OS I'm building for photographers and videographers, currently mid-way through a UI redesign.
+## Selected work
 
 ### [Yomirra](https://github.com/rzqllh/Yomirra)
-A source-powered reader I built for manga, comics, and webtoons, mobile-first as a PWA.
+
+A place for manga, manhwa, and comics from different sources. Search, shelves, and reading progress come together so it's easier to find a story and pick up where you left off.
+
+[Visit Yomirra](https://www.yomirra.web.id/) · Actively developed.
+
+### Xyeena
+
+A family of projects exploring how people work with AI, from coding workflows and specialist agents to a small companion on the Windows desktop.
+
+- **[Xyeena Rig](https://github.com/rzqllh/xyeena)** — skills, workflows, and optional guardrails for coding agents.
+- **[Simpul](https://github.com/rzqllh/SubagentBridge)** — coordinating coding workers with human supervision.
+- **[XYN Persona System](https://github.com/rzqllh/xyn-persona-system)** — one controller working with a cast of specialist personas; currently a source prerelease.
+- **[Xyeena Island / Notch](https://github.com/rzqllh/xyeena-notch)** — an experimental Windows companion for media, AI chat, and everyday activity; currently in alpha.
+
+Island also includes the animated [Xyn Guardian](https://github.com/rzqllh/xyeena-notch/tree/main/packages/xyn) and a [weekly recap engine](https://github.com/rzqllh/xyeena-notch/tree/main/packages/xyeena-recap). These are separate components, not standalone released apps. The projects share a family name, not a single release schedule.
 
 ### [HadzkaShop POS](https://github.com/rzqllh/HadzkaShop_PoS)
-A point-of-sale system I built for a small retail shop, scoped to a locked MVP.
 
-### [Mawmaw Interior](https://github.com/rzqllh/Mawmaw-landing)
-Site, docs, and stack I put together for a premium interior design and furniture studio.
+A point-of-sale app for a small shop, covering checkout, inventory, and the work behind each sale. The core application is built, with real-world rollout and production checks still to do.
 
-### [Portfolio v2](https://github.com/rzqllh/new-myport)
-My own site, rebuilt as a Next.js + Supabase app with a full CMS admin behind it.
+## More from the workbench
 
-## Stack
+**[Yoru](https://github.com/rzqllh/Yoru)** — An anime discovery and watch-guide app with a local-first player. It's an engineering preview; public streaming isn't ready.
 
-- Languages: TypeScript, JavaScript, Python
-- Frontend: React, Next.js, Tailwind CSS, shadcn/ui
-- Backend & data: Supabase
-- Design: Figma
+**[Astralyn](https://github.com/rzqllh/Astralyn)** — A Honkai: Star Rail companion for exploring characters, planning teams, and making choices in Divergent Universe. The local build is available; there's no public demo yet.
 
-## Get in touch
+**[Lumina](https://github.com/rzqllh/Lumina)** — A workspace envisioned for photographers and videographers, from planning a shoot to delivering the finished work. **Paused for now** at the foundation stage, before the core product features were built.
 
-- Email: hrizqullah484@gmail.com
-- LinkedIn: [Hafizh Rizqullah Prasetya](https://www.linkedin.com/in/rzqllh18/)
-- Twitter: [@rzqllh18](https://twitter.com/rzqllh18)
+## Elsewhere
+
+[Portfolio](https://rzqllh-port.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rzqllh18/) · [Email](mailto:hrizqullah484@gmail.com) · [Twitter](https://twitter.com/rzqllh18)
