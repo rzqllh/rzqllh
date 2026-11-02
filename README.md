@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="./assets/profile-masthead.svg" width="100%" alt="Hafizh Rizqullah Prasetya — project manager, designer, developer. An editorial collection of selected work.">
-</p>
+# Hafizh Rizqullah Prasetya
+
+**Project manager · Designer · Developer**  
+Indonesia
 
 I plan projects, design interfaces, and build software. I care about the details that make something easier to use, not just nicer to look at.
-
-Based in Indonesia. [Portfolio](https://rzqllh-port.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rzqllh18/) · [Email](mailto:hrizqullah484@gmail.com)
 
 ---
 
@@ -77,4 +76,12 @@ A point-of-sale app covering checkout, inventory, and the work behind every sale
 
 ---
 
-<sub>Elsewhere: <a href="https://rzqllh-port.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/rzqllh18/">LinkedIn</a> · <a href="mailto:hrizqullah484@gmail.com">Email</a> · <a href="https://twitter.com/rzqllh18">Twitter</a></sub>
+## Outside the repo
+
+Good projects involve more than code: a clear problem, a reason to build, and people willing to question the first answer.
+
+If something here gives you an idea—or a different take—I'd like to hear it.
+
+**[Email me](mailto:hrizqullah484@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/rzqllh18/)**
+
+<sub>[Portfolio](https://rzqllh-port.vercel.app/) · [Twitter](https://twitter.com/rzqllh18) · Hafizh Rizqullah Prasetya, Indonesia</sub>
